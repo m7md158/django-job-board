@@ -1,3 +1,7 @@
+
+## this project is Job Board websiteI created backend and the frontend I get it from colorlib website
+
+
 APPS
     Jobs :
         - title
@@ -17,28 +21,12 @@ APPS
             - search job by filters
 
 
-    Blog :
-        - title
-        - description
-        - created at
-        - category
-        - tags
-        - author
-
-
-        - search
-        - comments
-        - recent posts
-
 
     Contact :
 
     Home :
 
     login :
-
-## this project is Job Board websiteI created backend and the frontend I get it from colorlib website
-
 
 
 
